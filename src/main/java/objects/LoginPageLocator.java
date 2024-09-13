@@ -8,6 +8,7 @@ public enum LoginPageLocator {
     TEXT_LOG_IN_TO_YOUR_ACCOUNT(Type.XPATH,"//div[@class='login__form-header']//h3[contains(text(), 'Log in to your account.')]"),
     BUTTON_CONTINUE_AS(Type.XPATH,"//a[.='Continue as {text}']"),
     FIELD_INPUT_EMAIL_OR_USERNAME(Type.ID,"usernameOrEmail"),
+    FIELD_INPUT_EMAIL_OR_USERNAME2(Type.ID,"usernameOrEmail"),
 
     ;
 
