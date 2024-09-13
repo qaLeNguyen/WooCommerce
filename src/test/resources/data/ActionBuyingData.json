@@ -1,0 +1,99 @@
+{
+  "buyProduct": [
+    {
+      "productName": "User Experience Feedback",
+      "email": "example@example.com",
+      "confirmEmail": "example@example.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "countryRegion": "United States (US)",
+      "address1": "123 Main St",
+      "city": "No city",
+      "state": "Florida",
+      "postCode": "10001",
+      "method": "Developer"
+    }
+  ],
+  "buySeveralProducts": [
+    {
+      "productName1": "Worldpay",
+      "productName2": "Xero",
+      "productName3": "AutomateWoo",
+      "productName4": "Royal Mail",
+      "productName5": "GoCardless",
+      "email": "example@example.com",
+      "confirmEmail": "example@example.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "countryRegion": "United States (US)",
+      "address1": "123 Main St",
+      "city": "No city",
+      "state": "Florida",
+      "postCode": "10001",
+      "method": "Developer"
+    }
+  ],
+  "searchProducts": [
+    {
+      "productName1": "Worldpay",
+      "productName2": "Xero",
+      "productName3": "AutomateWoo",
+      "productName4": "Royal Mail",
+      "productName5": "GoCardless",
+      "productName6": "Braintree",
+      "productName7": "Smart Discounts and Coupons",
+      "productName8": "Jetpack Search",
+      "productName9": "Pay Your Price",
+      "productName10": "Loom Gift Notes",
+      "productName11": "CartPulse",
+      "productName12": "Assign Orders",
+      "productName13": "Group Attributes",
+      "productName14": "ShippingEasy",
+      "productName15": "Email Reports",
+      "productName16": "Security for WooCommerce",
+      "productName17": "ReadyCloud Suite",
+      "productName18": "Advanced Donation",
+      "productName19": "Elementor Connector",
+      "productName20": "Verisart"
+    }
+  ],
+  "filterProductsByCategory": [
+    {
+      "category": "Developed by Woo",
+      "expectVendorName": "Developed by Woo"
+    }
+  ],
+  "filterProductsByPrice": [
+    {
+      "rangePrice": "$1 - $49",
+      "beginPrice": 1,
+      "endPrice": 49
+    },
+    {
+      "rangePrice": "$50 - $99",
+      "beginPrice": 50,
+      "endPrice": 99
+    },
+    {
+      "rangePrice": "$100 - $199",
+      "beginPrice": 100,
+      "endPrice": 199
+    },
+    {
+      "rangePrice": "$200 - $299",
+      "beginPrice": 200,
+      "endPrice": 299
+    }
+  ],
+  "findProducts": [
+    {
+      "productNameDisplayed": "Multi Store Manager"
+    },
+    {
+      "productNameDisplayed": "WP Rocket"
+    },
+    {
+      "productNameDisplayed": "Gifting for WooCommerce Subscriptions"
+    }
+  ]
+}

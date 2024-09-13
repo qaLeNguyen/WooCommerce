@@ -1,0 +1,38 @@
+{
+  "Spanish": [
+    {
+      "language": "Español",
+      "buttonCreateAnAccount": "Crear cuenta",
+      "buttonLogin": "Acceder",
+      "howWooHelpYou": "¿Cómo puede ayudarte Woo?",
+      "loveByMillionsOfBrands": "Adorado por millones de marcas",
+      "powerUpWooStore": "Potencia tu",
+      "trustEcommercePlatform": "La plataforma de comercio electrónico en la que más vendedores confían para alcanzar el éxito ?",
+      "footer": "Copyright de WooCommerce 2024"
+    }
+  ],
+  "French": [
+    {
+      "language": "Français",
+      "buttonCreateAnAccount": "Créer un compte",
+      "buttonLogin": "Connexion",
+      "loveByMillionsOfBrands": "Des millions de marques nous ont choisi",
+      "getExpertHelp": "Obtenir l’aide d’experts",
+      "powerUpWooStore": "Booster votre",
+      "solutions": "Des solutions personnalisées",
+      "footer": "Copyright WooCommerce 2024"
+    }
+  ],
+  "Portuguese": [
+    {
+      "language": "Português (Brasil)",
+      "buttonCreateAnAccount": "Criar uma conta",
+      "buttonLogin": "Fazer login",
+      "loveByMillionsOfBrands": "Amado por milhões de marcas ",
+      "getExpertHelp": "Receba ajuda especializada",
+      "powerUpWooStore": "Potencialize sua",
+      "solutions": "Personalize soluções",
+      "footer": "Copyright WooCommerce 2024"
+    }
+  ]
+}

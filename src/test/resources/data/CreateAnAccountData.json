@@ -1,0 +1,102 @@
+{
+  "validEmails": [
+    {
+      "email": "user@example.com"
+    },
+    {
+      "email": "test.email@domain.com"
+    },
+    {
+      "email": "email123@domain.co"
+    },
+    {
+      "email": "first.last@sub.domain.com"
+    },
+    {
+      "email": "user@domain.co.in"
+    },
+    {
+      "email": "user_name@domain.co"
+    }
+  ],
+  "invalidEmails": [
+    {
+      "email": "plainaddress"
+    },
+    {
+      "email": "@missingusername.com"
+    },
+    {
+      "email": "username@.com"
+    },
+    {
+      "email": "username@domain..com"
+    },
+    {
+      "email": "username@domain_com"
+    },
+    {
+      "email": "username@domain,com"
+    },
+    {
+      "email": "user@domain@domain.com"
+    },
+    {
+      "email": "user@domain space.com"
+    },
+    {
+      "email": "user@.domain.com"
+    }
+  ],
+  "validEmailsAndReLogin": [
+    {
+      "email": "john.smith@example.com"
+    },
+    {
+      "email": "jane.doe@domain.com"
+    },
+    {
+      "email": "michael.johnson@company.co"
+    },
+    {
+      "email": "emily.davis@sub.domain.com"
+    },
+    {
+      "email": "robert.wilson@business.co.in"
+    },
+    {
+      "email": "lisa.jones@services.org"
+    },
+    {
+      "email": "james.taylor@domain.com"
+    },
+    {
+      "email": "patricia.brown@education.edu"
+    },
+    {
+      "email": "mark.white@company123.com"
+    },
+    {
+      "email": "barbara.hall@startup.tech"
+    },
+    {
+      "email": "steven.clark@finance.biz"
+    },
+    {
+      "email": "nancy.martin@charity.org"
+    },
+    {
+      "email": "thomas.moore@news.company"
+    },
+    {
+      "email": "sarah.adams@agency.co"
+    },
+    {
+      "email": "daniel.jones@lawfirm.us"
+    },
+    {
+      "email": "laura.lee@consulting.services"
+    }
+  ]
+
+}
